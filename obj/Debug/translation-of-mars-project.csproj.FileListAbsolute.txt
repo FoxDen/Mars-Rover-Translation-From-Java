@@ -4,3 +4,9 @@ D:\Users\Lisa\Documents\Visual Studio 2015\Projects\translation-of-mars-project\
 D:\Users\Lisa\Documents\Visual Studio 2015\Projects\translation-of-mars-project\translation-of-mars-project\translation-of-mars-project\bin\Debug\translation-of-mars-project.pdb
 D:\Users\Lisa\Documents\Visual Studio 2015\Projects\translation-of-mars-project\translation-of-mars-project\translation-of-mars-project\obj\Debug\translation-of-mars-project.exe
 D:\Users\Lisa\Documents\Visual Studio 2015\Projects\translation-of-mars-project\translation-of-mars-project\translation-of-mars-project\obj\Debug\translation-of-mars-project.pdb
+D:\Users\Lisa\Documents\GitHub\Mars-Rover-Translation-From-Java\bin\Debug\translation-of-mars-project.exe.config
+D:\Users\Lisa\Documents\GitHub\Mars-Rover-Translation-From-Java\obj\Debug\translation-of-mars-project.exe
+D:\Users\Lisa\Documents\GitHub\Mars-Rover-Translation-From-Java\obj\Debug\translation-of-mars-project.pdb
+D:\Users\Lisa\Documents\GitHub\Mars-Rover-Translation-From-Java\bin\Debug\translation-of-mars-project.exe
+D:\Users\Lisa\Documents\GitHub\Mars-Rover-Translation-From-Java\bin\Debug\translation-of-mars-project.pdb
+D:\Users\Lisa\Documents\GitHub\Mars-Rover-Translation-From-Java\obj\Debug\translation-of-mars-project.csprojResolveAssemblyReference.cache

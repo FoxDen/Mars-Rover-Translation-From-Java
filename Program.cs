@@ -57,11 +57,16 @@ namespace translation_of_mars_project
          * @param yOrig
          * @throws ArrayIndexOutOfBoundsException
          */
-        public void setOriginalPos(int xOrig, int yOrig) //throws ArrayIndexOutOfBoundsException
+        public void setOriginalPos(int xOrig, int yOrig)
         {
+            try{
             currentPosX=xOrig;
             currentPosY=yOrig;
             marsSize [xOrig, yOrig] = 1;
+
+            } catch(System.IndexOutOfRangeException ex){
+                throw new System.ArgumentException("Index was out of range.");
+            }
 
         }
 
